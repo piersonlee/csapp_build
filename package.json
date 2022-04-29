@@ -1,0 +1,27 @@
+{
+  "name": "csapp",
+  "description": "个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：[https://hansimov.gitbook.io/csapp/](https://hansimov.gitbook.io/csapp/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piersonlee/csapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piersonlee/csapp/issues"
+  },
+  "homepage": "https://github.com/piersonlee/csapp#readme",
+  "dependencies": {
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-mathjax-pro": "^0.0.6",
+    "gitbook-plugin-page-ref": "^0.0.17",
+    "honkit": "^3.7.1",
+    "mathjax": "^2.7.7"
+  }
+}
